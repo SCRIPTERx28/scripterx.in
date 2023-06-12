@@ -274,7 +274,9 @@ main section {
  width: 27%;
 }
 
-@media (max-width: 600px) {
+@media
+(max-width:
+414px) {
  body {
   font-family: Arial, Helvetica, Sans-Serif;
   background: #000;
