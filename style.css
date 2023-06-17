@@ -310,7 +310,12 @@ main section {
  .bgc {
   height: 50px;
   padding: 20px;
-  transition: .2s ease-in-out;
+  background: rgba(0,0,0,0.8);
+  backdrop-filter:
+  saturate(999%)
+  blur(7px);
+  transition:
+  .2s ease-in-out;
  }
  .logo img {
 
