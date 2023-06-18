@@ -506,11 +506,7 @@ main section {
   height: 100%;
   background-size: cover;
   background-position: center;
-  margin: 0 auto;
-  padding-top: 80px;
-
-  padding-bottom: 80px;
-  min-height: calc(100vh - 118.44px - 110.44px);
+  
   font-family: Sans-Serif;
  }
  main h2 {
